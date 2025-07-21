@@ -11,8 +11,5 @@
     "main.d51440ba.css.map": "/static/css/main.d51440ba.css.map",
     "main.76f078be.js.map": "/static/js/main.76f078be.js.map"
   },
-  "entrypoints": [
-    "static/css/main.d51440ba.css",
-    "static/js/main.76f078be.js"
-  ]
+  "entrypoints": ["static/css/main.d51440ba.css", "static/js/main.76f078be.js"]
 }
