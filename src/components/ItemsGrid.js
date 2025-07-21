@@ -13,10 +13,7 @@ export function ItemsGrid() {
   const { characters } = useData();
   const [popupSettings, setPopupSettings] = useState(defaultPopupSettings);
 
-  console.log('Characters:', characters);
-
   function handleCardClick(props) {
-    console.log('Card props:', props);
     setPopupSettings({
       visible: true,
       content: { ...props }

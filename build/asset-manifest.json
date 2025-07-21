@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d51440ba.css",
-    "main.js": "/static/js/main.bcba9480.js",
+    "main.js": "/static/js/main.a18c5a4f.js",
     "static/media/green-portal.png": "/static/media/green-portal.a218ca229093de6f08d2.png",
     "static/media/widget-logo.png": "/static/media/widget-logo.42c8df0b92603ef2e2e2.png",
     "static/media/male.svg": "/static/media/male.42d01c2c5e1d7025a594642a761f1939.svg",
@@ -9,10 +9,10 @@
     "static/media/genderless.svg": "/static/media/genderless.dec799ed2f3cfbb46522c185f9dbb030.svg",
     "static/media/female.svg": "/static/media/female.02f202d68bdd63c12690625cf6aec3fd.svg",
     "main.d51440ba.css.map": "/static/css/main.d51440ba.css.map",
-    "main.bcba9480.js.map": "/static/js/main.bcba9480.js.map"
+    "main.a18c5a4f.js.map": "/static/js/main.a18c5a4f.js.map"
   },
   "entrypoints": [
     "static/css/main.d51440ba.css",
-    "static/js/main.bcba9480.js"
+    "static/js/main.a18c5a4f.js"
   ]
 }

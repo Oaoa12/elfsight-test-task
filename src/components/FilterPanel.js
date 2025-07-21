@@ -11,7 +11,7 @@ export function FilterPanel() {
     gender: '',
     type: ''
   });
-  const [hoveredSelect, setHoveredSelect] = useState(null);
+  const [setHoveredSelect] = useState(null);
 
   const handleFilterChange = (e) => {
     const { name, value } = e.target;

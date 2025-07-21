@@ -17,8 +17,6 @@ export function Popup({ settings: { visible, content = {} }, setSettings }) {
     episode: episodes
   } = content;
 
-  console.log('Popup content:', content);
-
   const togglePopup = useCallback(
     (e) => {
       if (e.currentTarget === e.target) {
